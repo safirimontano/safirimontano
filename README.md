@@ -2,7 +2,7 @@
 ## Oi, aqui é a Safiri !!
 No momento estou estudando HTML5, CSS3 e Java Script :nerd_face:
 
-<img alt="" height="320" width="320" src="https://static.vecteezy.com/system/resources/previews/000/227/854/non_2x/female-developer-vector.jpg" align="right" width="300">
+<img alt="" height="320" width="320" src="https://image.freepik.com/free-vector/custom-style-script-website-optimization-coding-software-development-female-programmer-cartoon-character-working-adding-javascript-css-code-vector-isolated-concept-metaphor-illustration_335657-2789.jpg" align="right" width="300">
 
 
  <div style="display: inline_block"><br>
