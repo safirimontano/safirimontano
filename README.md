@@ -1,4 +1,4 @@
 
-- 🌱 I’m currently learning CSS3 and HTML5
+- 🌱 I’m currently learning MTML5, CSS3 and Java Script.
 
 
