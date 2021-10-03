@@ -20,3 +20,5 @@ No momento estou estudando HTML5, CSS3 e Java Script :nerd_face:
  
   
 </div>
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
