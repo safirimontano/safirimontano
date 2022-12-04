@@ -1,6 +1,7 @@
 
-# Oi, aqui é a Safiri !!
-## No momento estou estudando SQL and PYTHON :nerd_face:
+# Oi, aqui é a Safiri !! [Hi, I'm Safiri]
+## Atualmente estou dedicando meu tempo aos estudos em SQL e PYTHON :nerd_face:
+### I'm currently dedicating my time to studying SQL and PYTHON <3
 
 <img alt="" height="320" width="320" src="https://image.freepik.com/free-vector/custom-style-script-website-optimization-coding-software-development-female-programmer-cartoon-character-working-adding-javascript-css-code-vector-isolated-concept-metaphor-illustration_335657-2789.jpg" align="right" width="300">
 
@@ -13,6 +14,7 @@
   
 ##
 ### Você pode me encontrar aqui:
+You can find me here:
 <div> 
     <a href="https://instagram.com/safiri-montano" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	  <a href = "mailto:safiridias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
