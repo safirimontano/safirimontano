@@ -3,7 +3,7 @@
 ## Atualmente estou dedicando meu tempo aos estudos em SQL e PYTHON :nerd_face:
 ### I'm currently dedicating my time to studying SQL and PYTHON <3
 
-<img alt="" height="320" width="320" src="https://image.freepik.com/free-vector/custom-style-script-website-optimization-coding-software-development-female-programmer-cartoon-character-working-adding-javascript-css-code-vector-isolated-concept-metaphor-illustration_335657-2789.jpg" align="right" width="300">
+<img alt="" height="190" width="190" src="https://image.freepik.com/free-vector/custom-style-script-website-optimization-coding-software-development-female-programmer-cartoon-character-working-adding-javascript-css-code-vector-isolated-concept-metaphor-illustration_335657-2789.jpg" align="right" width="300">
 
 
  <div style="display: inline_block"><br>
